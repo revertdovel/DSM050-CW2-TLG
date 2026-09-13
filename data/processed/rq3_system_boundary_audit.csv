@@ -1,0 +1,54 @@
+REF_AREA,area_name,admin_stress_high_pct,ADM0_A3,boundary_matched,display_decision,value_available
+ALB,Albania,31.240387310000003,ALB,True,National outline: identifier checked,True
+CA48,Alberta,38.86807744,,False,Alberta only; not Canada,True
+AUS,Australia,69.01617857,AUS,True,National outline: identifier checked,True
+AUT,Austria,56.56791283,AUT,True,National outline: identifier checked,True
+AZE,Azerbaijan,30.19256615,AZE,True,National outline: identifier checked,True
+BHR,Bahrain,44.73313122,,False,Small system: panel for legibility,True
+BEL,Belgium,70.32248167,,False,National-labelled estimate; community coverage not mapped,True
+BRA,Brazil,54.35039054,BRA,True,National outline: identifier checked,True
+BGR,Bulgaria,35.57560726,BGR,True,National outline: identifier checked,True
+CHL,Chile,56.879278330000005,CHL,True,National outline: identifier checked,True
+COL,Colombia,30.65038642,COL,True,National outline: identifier checked,True
+CRI,Costa Rica,65.17193037999999,CRI,True,National outline: identifier checked,True
+HRV,Croatia,56.834593749999996,HRV,True,National outline: identifier checked,True
+CYP,Cyprus,29.79123769,,False,Territorial equivalence not established; panel only,True
+CZE,Czechia,51.06122304,CZE,True,National outline: identifier checked,True
+DNK,Denmark,42.31732132,DNK,True,National outline: identifier checked,True
+EST,Estonia,39.12731582,EST,True,National outline: identifier checked,True
+FIN,Finland,40.17533502,FIN,True,National outline: identifier checked,True
+FRA,France,57.65948419,FRA,True,National outline: identifier checked,True
+HUN,Hungary,55.04924988,HUN,True,National outline: identifier checked,True
+ISL,Iceland,31.2903322,ISL,True,National outline: identifier checked,True
+ISR,Israel,28.364115542999997,ISR,True,National outline: identifier checked,True
+ITA,Italy,56.236612040000004,ITA,True,National outline: identifier checked,True
+JPN,Japan,62.822299869999995,JPN,True,National outline: identifier checked,True
+KAZ,Kazakhstan,25.39941394,KAZ,True,National outline: identifier checked,True
+KOR,Korea,49.63485972,KOR,True,National outline: identifier checked,True
+XKV,Kosovo,47.155123540000005,KOS,True,National outline: identifier checked,True
+LVA,Latvia,38.320247062,LVA,True,National outline: identifier checked,True
+LTU,Lithuania,51.16805781,LTU,True,National outline: identifier checked,True
+MLT,Malta,53.467280779999996,,False,Small system: panel for legibility,True
+MNE,Montenegro,66.25829042,MNE,True,National outline: identifier checked,True
+MAR,Morocco,24.638682151,MAR,True,National outline: identifier checked,True
+NLD,Netherlands,49.95781466,NLD,True,National outline: identifier checked,True
+NZL,New Zealand,55.816885580000005,NZL,True,National outline: identifier checked,True
+MKD,North Macedonia,53.00990442,MKD,True,National outline: identifier checked,True
+NOR,Norway,52.62289079,NOR,True,National outline: identifier checked,True
+POL,Poland,43.81317874,POL,True,National outline: identifier checked,True
+PRT,Portugal,79.26867841,PRT,True,National outline: identifier checked,True
+ROU,Romania,36.95752136,ROU,True,National outline: identifier checked,True
+SAU,Saudi Arabia,50.627134760000004,SAU,True,National outline: identifier checked,True
+SRB,Serbia,64.16825164,SRB,True,National outline: identifier checked,True
+CN09,Shanghai,29.227563529999998,,False,Shanghai only; not China,True
+SGP,Singapore,52.819965599999996,,False,Small system: panel for legibility,True
+SVK,Slovak Republic,53.037468880000006,SVK,True,National outline: identifier checked,True
+SVN,Slovenia,63.04811407,SVN,True,National outline: identifier checked,True
+ZAF,South Africa,66.12196045,ZAF,True,National outline: identifier checked,True
+ESP,Spain,64.25874881,ESP,True,National outline: identifier checked,True
+SWE,Sweden,64.79150637000001,SWE,True,National outline: identifier checked,True
+TUR,Türkiye,47.93836222,TUR,True,National outline: identifier checked,True
+ARE,United Arab Emirates,40.95408355,ARE,True,National outline: identifier checked,True
+USA,United States,28.911611549999996,USA,True,National outline: identifier checked,True
+UZB,Uzbekistan,31.331910126,UZB,True,National outline: identifier checked,True
+VNM,Viet Nam,40.807601338,VNM,True,National outline: identifier checked,True
