@@ -1,0 +1,54 @@
+REF_AREA,TIME_PERIOD,area_name,total_work_hours_available,teaching_hours_available,non_teaching_hours_available,admin_stress_high_pct_available,school_recommend_positive_pct_available
+ALB,2024,Albania,True,True,True,True,True
+CA48,2024,Alberta,True,True,True,True,True
+AUS,2024,Australia,True,True,True,True,True
+AUT,2024,Austria,True,True,True,True,True
+AZE,2024,Azerbaijan,True,True,True,True,True
+BHR,2024,Bahrain,True,True,True,True,True
+BEL,2024,Belgium,True,True,True,True,True
+BRA,2024,Brazil,True,True,True,True,True
+BGR,2024,Bulgaria,True,True,True,True,True
+CHL,2024,Chile,True,True,True,True,True
+COL,2024,Colombia,True,True,True,True,True
+CRI,2024,Costa Rica,True,True,True,True,True
+HRV,2024,Croatia,True,True,True,True,True
+CYP,2024,Cyprus,True,True,True,True,True
+CZE,2024,Czechia,True,True,True,True,True
+DNK,2024,Denmark,True,True,True,True,True
+EST,2024,Estonia,True,True,True,True,True
+FIN,2024,Finland,True,True,True,True,True
+FRA,2024,France,True,True,True,True,True
+HUN,2024,Hungary,True,True,True,True,True
+ISL,2024,Iceland,True,True,True,True,True
+ISR,2024,Israel,True,True,True,True,True
+ITA,2024,Italy,True,True,True,True,True
+JPN,2024,Japan,True,True,True,True,True
+KAZ,2024,Kazakhstan,True,True,True,True,True
+KOR,2024,Korea,True,True,True,True,True
+XKV,2024,Kosovo,True,True,True,True,True
+LVA,2024,Latvia,True,True,True,True,True
+LTU,2024,Lithuania,True,True,True,True,True
+MLT,2024,Malta,True,True,True,True,True
+MNE,2024,Montenegro,True,True,True,True,True
+MAR,2024,Morocco,True,True,True,True,True
+NLD,2024,Netherlands,True,True,True,True,True
+NZL,2024,New Zealand,True,True,True,True,True
+MKD,2024,North Macedonia,True,True,True,True,True
+NOR,2024,Norway,True,True,True,True,True
+POL,2024,Poland,True,True,True,True,True
+PRT,2024,Portugal,True,True,True,True,True
+ROU,2024,Romania,True,True,True,True,True
+SAU,2024,Saudi Arabia,True,True,True,True,True
+SRB,2024,Serbia,True,True,True,True,True
+CN09,2024,Shanghai,True,True,True,True,True
+SGP,2024,Singapore,True,True,True,True,True
+SVK,2024,Slovak Republic,True,True,True,True,True
+SVN,2024,Slovenia,True,True,True,True,True
+ZAF,2024,South Africa,True,True,True,True,True
+ESP,2024,Spain,True,True,True,True,True
+SWE,2024,Sweden,True,True,True,True,True
+TUR,2024,Türkiye,True,True,True,True,True
+ARE,2024,United Arab Emirates,True,True,True,True,True
+USA,2024,United States,True,True,True,True,True
+UZB,2024,Uzbekistan,True,True,True,True,True
+VNM,2024,Viet Nam,True,True,True,True,True

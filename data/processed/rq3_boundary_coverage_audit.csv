@@ -1,0 +1,242 @@
+ADM0_A3,ADMIN,REF_AREA,admin_stress_high_pct,mapped_value
+ZWE,Zimbabwe,,,False
+ZMB,Zambia,,,False
+YEM,Yemen,,,False
+VNM,Vietnam,VNM,40.807601338,True
+VEN,Venezuela,,,False
+VAT,Vatican,,,False
+VUT,Vanuatu,,,False
+UZB,Uzbekistan,UZB,31.331910126,True
+URY,Uruguay,,,False
+FSM,Federated States of Micronesia,,,False
+MHL,Marshall Islands,,,False
+MNP,Northern Mariana Islands,,,False
+VIR,United States Virgin Islands,,,False
+GUM,Guam,,,False
+ASM,American Samoa,,,False
+PRI,Puerto Rico,,,False
+USA,United States of America,USA,28.911611549999996,True
+SGS,South Georgia and the Islands,,,False
+IOT,British Indian Ocean Territory,,,False
+SHN,Saint Helena,,,False
+PCN,Pitcairn Islands,,,False
+AIA,Anguilla,,,False
+FLK,Falkland Islands,,,False
+CYM,Cayman Islands,,,False
+BMU,Bermuda,,,False
+VGB,British Virgin Islands,,,False
+TCA,Turks and Caicos Islands,,,False
+MSR,Montserrat,,,False
+JEY,Jersey,,,False
+GGY,Guernsey,,,False
+IMN,Isle of Man,,,False
+GBR,United Kingdom,,,False
+ARE,United Arab Emirates,ARE,40.95408355,True
+UKR,Ukraine,,,False
+UGA,Uganda,,,False
+TKM,Turkmenistan,,,False
+TUR,Turkey,TUR,47.93836222,True
+TUN,Tunisia,,,False
+TTO,Trinidad and Tobago,,,False
+TON,Tonga,,,False
+TGO,Togo,,,False
+TLS,East Timor,,,False
+THA,Thailand,,,False
+TZA,United Republic of Tanzania,,,False
+TJK,Tajikistan,,,False
+TWN,Taiwan,,,False
+SYR,Syria,,,False
+CHE,Switzerland,,,False
+SWE,Sweden,SWE,64.79150637000001,True
+SWZ,eSwatini,,,False
+SUR,Suriname,,,False
+SDS,South Sudan,,,False
+SDN,Sudan,,,False
+LKA,Sri Lanka,,,False
+ESP,Spain,ESP,64.25874881,True
+KOR,South Korea,KOR,49.63485972,True
+ZAF,South Africa,ZAF,66.12196045,True
+SOM,Somalia,,,False
+SOL,Somaliland,,,False
+SLB,Solomon Islands,,,False
+SVK,Slovakia,SVK,53.037468880000006,True
+SVN,Slovenia,SVN,63.04811407,True
+SGP,Singapore,,,False
+SLE,Sierra Leone,,,False
+SYC,Seychelles,,,False
+SRB,Republic of Serbia,SRB,64.16825164,True
+SEN,Senegal,,,False
+SAU,Saudi Arabia,SAU,50.627134760000004,True
+STP,São Tomé and Principe,,,False
+SMR,San Marino,,,False
+WSM,Samoa,,,False
+VCT,Saint Vincent and the Grenadines,,,False
+LCA,Saint Lucia,,,False
+KNA,Saint Kitts and Nevis,,,False
+RWA,Rwanda,,,False
+RUS,Russia,,,False
+ROU,Romania,ROU,36.95752136,True
+QAT,Qatar,,,False
+PRT,Portugal,PRT,79.26867841,True
+POL,Poland,POL,43.81317874,True
+PHL,Philippines,,,False
+PER,Peru,,,False
+PRY,Paraguay,,,False
+PNG,Papua New Guinea,,,False
+PAN,Panama,,,False
+PLW,Palau,,,False
+PAK,Pakistan,,,False
+OMN,Oman,,,False
+NOR,Norway,NOR,52.62289079,True
+PRK,North Korea,,,False
+NGA,Nigeria,,,False
+NER,Niger,,,False
+NIC,Nicaragua,,,False
+NZL,New Zealand,NZL,55.816885580000005,True
+NIU,Niue,,,False
+COK,Cook Islands,,,False
+NLD,Netherlands,NLD,49.95781466,True
+ABW,Aruba,,,False
+CUW,Curaçao,,,False
+NPL,Nepal,,,False
+NRU,Nauru,,,False
+NAM,Namibia,,,False
+MOZ,Mozambique,,,False
+MAR,Morocco,MAR,24.638682151,True
+SAH,Western Sahara,,,False
+MNE,Montenegro,MNE,66.25829042,True
+MNG,Mongolia,,,False
+MDA,Moldova,,,False
+MCO,Monaco,,,False
+MEX,Mexico,,,False
+MUS,Mauritius,,,False
+MRT,Mauritania,,,False
+MLT,Malta,,,False
+MLI,Mali,,,False
+MDV,Maldives,,,False
+MYS,Malaysia,,,False
+MWI,Malawi,,,False
+MDG,Madagascar,,,False
+MKD,North Macedonia,MKD,53.00990442,True
+LUX,Luxembourg,,,False
+LTU,Lithuania,LTU,51.16805781,True
+LIE,Liechtenstein,,,False
+LBY,Libya,,,False
+LBR,Liberia,,,False
+LSO,Lesotho,,,False
+LBN,Lebanon,,,False
+LVA,Latvia,LVA,38.320247062,True
+LAO,Laos,,,False
+KGZ,Kyrgyzstan,,,False
+KWT,Kuwait,,,False
+KOS,Kosovo,XKV,47.155123540000005,True
+KIR,Kiribati,,,False
+KEN,Kenya,,,False
+KAZ,Kazakhstan,KAZ,25.39941394,True
+JOR,Jordan,,,False
+JPN,Japan,JPN,62.822299869999995,True
+JAM,Jamaica,,,False
+ITA,Italy,ITA,56.236612040000004,True
+ISR,Israel,ISR,28.364115542999997,True
+PSX,Palestine,,,False
+IRL,Ireland,,,False
+IRQ,Iraq,,,False
+IRN,Iran,,,False
+IDN,Indonesia,,,False
+IND,India,,,False
+ISL,Iceland,ISL,31.2903322,True
+HUN,Hungary,HUN,55.04924988,True
+HND,Honduras,,,False
+HTI,Haiti,,,False
+GUY,Guyana,,,False
+GNB,Guinea-Bissau,,,False
+GIN,Guinea,,,False
+GTM,Guatemala,,,False
+GRD,Grenada,,,False
+GRC,Greece,,,False
+GHA,Ghana,,,False
+DEU,Germany,,,False
+GEO,Georgia,,,False
+GMB,Gambia,,,False
+GAB,Gabon,,,False
+FRA,France,FRA,57.65948419,True
+SPM,Saint Pierre and Miquelon,,,False
+WLF,Wallis and Futuna,,,False
+MAF,Saint Martin,,,False
+BLM,Saint Barthelemy,,,False
+PYF,French Polynesia,,,False
+NCL,New Caledonia,,,False
+ATF,French Southern and Antarctic Lands,,,False
+ALD,Aland,,,False
+FIN,Finland,FIN,40.17533502,True
+FJI,Fiji,,,False
+ETH,Ethiopia,,,False
+EST,Estonia,EST,39.12731582,True
+ERI,Eritrea,,,False
+GNQ,Equatorial Guinea,,,False
+SLV,El Salvador,,,False
+EGY,Egypt,,,False
+ECU,Ecuador,,,False
+DOM,Dominican Republic,,,False
+DMA,Dominica,,,False
+DJI,Djibouti,,,False
+GRL,Greenland,,,False
+FRO,Faroe Islands,,,False
+DNK,Denmark,DNK,42.31732132,True
+CZE,Czechia,CZE,51.06122304,True
+CYN,Northern Cyprus,,,False
+CYP,Cyprus,,,False
+CUB,Cuba,,,False
+HRV,Croatia,HRV,56.834593749999996,True
+CIV,Ivory Coast,,,False
+CRI,Costa Rica,CRI,65.17193037999999,True
+COD,Democratic Republic of the Congo,,,False
+COG,Republic of the Congo,,,False
+COM,Comoros,,,False
+COL,Colombia,COL,30.65038642,True
+CHN,China,,,False
+MAC,Macao S.A.R,,,False
+HKG,Hong Kong S.A.R.,,,False
+CHL,Chile,CHL,56.879278330000005,True
+TCD,Chad,,,False
+CAF,Central African Republic,,,False
+CPV,Cabo Verde,,,False
+CAN,Canada,,,False
+CMR,Cameroon,,,False
+KHM,Cambodia,,,False
+MMR,Myanmar,,,False
+BDI,Burundi,,,False
+BFA,Burkina Faso,,,False
+BGR,Bulgaria,BGR,35.57560726,True
+BRN,Brunei,,,False
+BRA,Brazil,BRA,54.35039054,True
+BWA,Botswana,,,False
+BIH,Bosnia and Herzegovina,,,False
+BOL,Bolivia,,,False
+BTN,Bhutan,,,False
+BEN,Benin,,,False
+BLZ,Belize,,,False
+BEL,Belgium,,,False
+BLR,Belarus,,,False
+BRB,Barbados,,,False
+BGD,Bangladesh,,,False
+BHR,Bahrain,,,False
+BHS,The Bahamas,,,False
+AZE,Azerbaijan,AZE,30.19256615,True
+AUT,Austria,AUT,56.56791283,True
+AUS,Australia,AUS,69.01617857,True
+IOA,Indian Ocean Territories,,,False
+HMD,Heard Island and McDonald Islands,,,False
+NFK,Norfolk Island,,,False
+ATC,Ashmore and Cartier Islands,,,False
+ARM,Armenia,,,False
+ARG,Argentina,,,False
+ATG,Antigua and Barbuda,,,False
+AGO,Angola,,,False
+AND,Andorra,,,False
+DZA,Algeria,,,False
+ALB,Albania,ALB,31.240387310000003,True
+AFG,Afghanistan,,,False
+KAS,Siachen Glacier,,,False
+SXM,Sint Maarten,,,False
+TUV,Tuvalu,,,False

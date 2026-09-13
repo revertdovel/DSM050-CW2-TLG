@@ -1,0 +1,57 @@
+REF_AREA,area_name,included,reason,total_work_hours,plotted
+ALB,Albania,True,Participating education system,28.58611089,True
+ARE,United Arab Emirates,True,Participating education system,40.37600514,True
+AUS,Australia,True,Participating education system,43.96671181,True
+AUT,Austria,True,Participating education system,37.63344611,True
+AZE,Azerbaijan,True,Participating education system,23.17326963,True
+BEFL,Flemish Community,False,Overlaps with retained Belgium national estimate,,False
+BEFR,French Community,False,Overlaps with retained Belgium national estimate,,False
+BEL,Belgium,True,Participating education system,35.31548272,True
+BGR,Bulgaria,True,Participating education system,37.96643911,True
+BHR,Bahrain,True,Participating education system,37.52613405,True
+BRA,Brazil,True,Participating education system,32.32264148,True
+CA48,Alberta,True,Participating education system,46.34242878,True
+CHL,Chile,True,Participating education system,38.29057905,True
+CN09,Shanghai,True,Participating education system,46.32266327,True
+COL,Colombia,True,Participating education system,38.68772573,True
+CRI,Costa Rica,True,Participating education system,41.1664376,True
+CYP,Cyprus,True,Participating education system,31.61780401,True
+CZE,Czechia,True,Participating education system,38.81543967,True
+DNK,Denmark,True,Participating education system,38.91101345,True
+ESP,Spain,True,Participating education system,38.72851921,True
+EST,Estonia,True,Participating education system,37.78924346,True
+FIN,Finland,True,Participating education system,34.74974134,True
+FRA,France,True,Participating education system,37.22539548,True
+HRV,Croatia,True,Participating education system,40.5241512,True
+HUN,Hungary,True,Participating education system,40.1488926,True
+ISL,Iceland,True,Participating education system,36.74423362,True
+ISR,Israel,True,Participating education system,29.97675409,True
+ITA,Italy,True,Participating education system,31.01927198,True
+JPN,Japan,True,Participating education system,53.00846577,True
+KAZ,Kazakhstan,True,Participating education system,34.80946143,True
+KOR,Korea,True,Participating education system,43.09914981,True
+LTU,Lithuania,True,Participating education system,39.14677421,True
+LVA,Latvia,True,Participating education system,36.83199144,True
+MAR,Morocco,True,Participating education system,30.42569931,True
+MKD,North Macedonia,True,Participating education system,32.67495448,True
+MLT,Malta,True,Participating education system,37.73058637,True
+MNE,Montenegro,True,Participating education system,35.7251795,True
+NLD,Netherlands,True,Participating education system,34.52410968,True
+NOR,Norway,True,Participating education system,37.98719967,True
+NZL,New Zealand,True,Participating education system,45.43729115,True
+OECD,OECD,False,"Aggregate benchmark, not an independent education system",,False
+POL,Poland,True,Participating education system,35.91120169,True
+PRT,Portugal,True,Participating education system,39.70139458,True
+ROU,Romania,True,Participating education system,35.41331901,True
+SAU,Saudi Arabia,True,Participating education system,29.70891162,True
+SGP,Singapore,True,Participating education system,46.78274835,True
+SRB,Serbia,True,Participating education system,36.36275554,True
+SVK,Slovak Republic,True,Participating education system,35.80897473,True
+SVN,Slovenia,True,Participating education system,39.67081597,True
+SWE,Sweden,True,Participating education system,42.33990821,True
+TUR,Türkiye,True,Participating education system,29.69190881,True
+USA,United States,True,Participating education system,44.12671323,True
+UZB,Uzbekistan,True,Participating education system,32.49956904,True
+VNM,Viet Nam,True,Participating education system,43.48794959,True
+XKV,Kosovo,True,Participating education system,29.02494225,True
+ZAF,South Africa,True,Participating education system,36.00069443,True

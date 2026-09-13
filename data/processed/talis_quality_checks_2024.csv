@@ -1,0 +1,5 @@
+extract,source_rows,source_areas,missing_values,duplicate_keys
+total_hours,56,56,0,0
+teaching_hours,56,56,0,0
+admin_stress,224,56,0,0
+recommendation,224,56,0,0

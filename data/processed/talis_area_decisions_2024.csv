@@ -1,0 +1,57 @@
+REF_AREA,area_name,included,reason
+ALB,Albania,True,Participating education system
+ARE,United Arab Emirates,True,Participating education system
+AUS,Australia,True,Participating education system
+AUT,Austria,True,Participating education system
+AZE,Azerbaijan,True,Participating education system
+BEFL,Flemish Community,False,Overlaps with retained Belgium national estimate
+BEFR,French Community,False,Overlaps with retained Belgium national estimate
+BEL,Belgium,True,Participating education system
+BGR,Bulgaria,True,Participating education system
+BHR,Bahrain,True,Participating education system
+BRA,Brazil,True,Participating education system
+CA48,Alberta,True,Participating education system
+CHL,Chile,True,Participating education system
+CN09,Shanghai,True,Participating education system
+COL,Colombia,True,Participating education system
+CRI,Costa Rica,True,Participating education system
+CYP,Cyprus,True,Participating education system
+CZE,Czechia,True,Participating education system
+DNK,Denmark,True,Participating education system
+ESP,Spain,True,Participating education system
+EST,Estonia,True,Participating education system
+FIN,Finland,True,Participating education system
+FRA,France,True,Participating education system
+HRV,Croatia,True,Participating education system
+HUN,Hungary,True,Participating education system
+ISL,Iceland,True,Participating education system
+ISR,Israel,True,Participating education system
+ITA,Italy,True,Participating education system
+JPN,Japan,True,Participating education system
+KAZ,Kazakhstan,True,Participating education system
+KOR,Korea,True,Participating education system
+LTU,Lithuania,True,Participating education system
+LVA,Latvia,True,Participating education system
+MAR,Morocco,True,Participating education system
+MKD,North Macedonia,True,Participating education system
+MLT,Malta,True,Participating education system
+MNE,Montenegro,True,Participating education system
+NLD,Netherlands,True,Participating education system
+NOR,Norway,True,Participating education system
+NZL,New Zealand,True,Participating education system
+OECD,OECD,False,"Aggregate benchmark, not an independent education system"
+POL,Poland,True,Participating education system
+PRT,Portugal,True,Participating education system
+ROU,Romania,True,Participating education system
+SAU,Saudi Arabia,True,Participating education system
+SGP,Singapore,True,Participating education system
+SRB,Serbia,True,Participating education system
+SVK,Slovak Republic,True,Participating education system
+SVN,Slovenia,True,Participating education system
+SWE,Sweden,True,Participating education system
+TUR,Türkiye,True,Participating education system
+USA,United States,True,Participating education system
+UZB,Uzbekistan,True,Participating education system
+VNM,Viet Nam,True,Participating education system
+XKV,Kosovo,True,Participating education system
+ZAF,South Africa,True,Participating education system
